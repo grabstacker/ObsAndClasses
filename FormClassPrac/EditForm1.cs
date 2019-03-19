@@ -21,7 +21,7 @@ namespace FormClassPrac
         public void editForm(TextBox txtBox)
         {
             this._txtBox = txtBox;
-            _txtBox.Text = "Hello";
+            _txtBox.Text = "Hello world";
 
             
         }
